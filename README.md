@@ -1,2 +1,0 @@
-# projetodoalura
-projetodoalura
